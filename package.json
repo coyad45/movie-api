@@ -1,0 +1,19 @@
+{
+  "name": "movie-api",
+  "version": "1.0.0",
+  "description": "Curso practico de consumo de API REST con javascript",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/coyad45/movie-api.git"
+  },
+  "author": "coyad",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/coyad45/movie-api/issues"
+  },
+  "homepage": "https://github.com/coyad45/movie-api#readme"
+}
